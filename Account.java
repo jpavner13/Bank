@@ -59,4 +59,7 @@ public class Account
 	System.out.println( toString() );    
     }
     
+    public void update(){
+        System.out.println(bal);
+    }
 }
